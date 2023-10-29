@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/data":{"guestpath":"/home/vagrant/data","hostpath":"/Users/Morshed/Desktop/vagrant-for-poc/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/Morshed/Desktop/vagrant-for-poc/vagrant-jenkin-soner","disabled":false,"__vagrantfile":true}}}
